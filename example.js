@@ -98,30 +98,35 @@
 // }
 // console.log(amt);
 // --------------------------------------------------------------
+//____________________________Exercises 2 and 3 WBK 6_________________
+//----------------------------------------------------------------
+//Jenny Secret message
 // function greet(name){
 //     if(name === "Johnny")
 //         return "Hello, my love!";
 //     return "Hello, " + name + "!";
 //   }
 //--------------------------------------------
+//Grasshopper - Combine stings
 //   function combineNames(first,last){
 //     return first + " " + last;
 //   }
 //   console.log(combineNames("James", "Stevens"));
   
 //--------------------------------------------------------
+//Grasshopper if/else syntax debug
 // function checkAlive(health) {
 //     return health > 0;
 //   }
 //----------------------------------------------------------------
-
+//Grasshopper Variable Assignment Debug
 // var a = "dev"
 // var b = "Lab"
 
 // var name = a + b
 // console.log(name);
 //-------------------------------------------------------------
-
+//Grasshopper Messi Goals
 // var laLigaGoals = 43
 // var championsLeagueGoals = 10
 // var copaDelReyGoals = 5
@@ -129,10 +134,22 @@
 // var totalGoals = laLigaGoals + championsLeagueGoals + copaDelReyGoals
 
 // console.log(totalGoals)
+// //----------------------------------------------------------
+//Grasshopper Order of Operations
+//   function orderOperations () {
+//     return ((2 + 2) * (2 + 2)) * 2;
+//   }
+//   console.log(orderOperations());
 //----------------------------------------------------------
+//Keep Hydrated! liters is spelled wrong on the website
+// function liters(time) {
+//     return Math.floor (time * 0.5);
+//   }
 
-function orderOperations () {
-    return 2 + 2 * 2 + 2 * 2
-  }
-  console.log(orderOperations);
-  
+// console.log(liters(1));
+// console.log(liters(3));
+// console.log(liters(5));
+//--------------------------------------------------------------
+// Exercise 1 Pages 23
+//----------------------------------------------------------------
+//Is it even?
